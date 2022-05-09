@@ -20,7 +20,6 @@ body:
     attributes:
       label: Beschrijf de bug?
       description: Een duidelijke en beknopte beschrijving van wat de bug is.
-      placeholder: |
     validations:
       required: true
   - type: textarea
